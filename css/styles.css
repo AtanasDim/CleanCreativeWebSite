@@ -1,0 +1,192 @@
+
+.header	{
+	background-color: #f8f8f8;
+	height:50px;
+}
+
+.infosite {
+	text-decoration:none;
+	color: #b8b8b8;
+	position: absolute;
+	top:24px;
+	left:60px;
+}
+.icones {
+	position:absolute;
+	padding: 10px;
+	top:-7px;
+	right:130px;
+}
+
+.icones li {
+	padding: 7px;
+	list-style-type:none;
+	float:left;
+}
+
+.signup {
+	color:#b8b8b8;
+	right: 70px;
+	top:24px;
+	text-decoration:none;
+	position:absolute;
+}
+
+/* Start Navigation Menu*/
+
+.navigation {
+	position:absolute;
+	right: 60px;
+	top:65px;
+}
+
+.navigation li {
+	list-style-type:none;
+	float:left;
+}
+
+.navigation li a {
+	font-family:Arial;
+	color: #828282;
+	font-size:12px;
+	padding: 0px 20px;
+	text-decoration:none;
+	transition: all 0.7s ease;
+}
+.navigation li a:hover {
+	color: #fb8e01;
+}
+
+body {
+	padding: 0px 50px;
+	background-color:#fafbfa;
+}
+
+hr {
+  border:none;
+  border-top:2px dotted #eaeae8;
+  height:5px;
+}
+
+h2 {
+	font-family:Arial;
+	font-size:18px;
+}
+
+h3 {
+	margin: 10px 15px;
+}
+
+p {
+	font-family:Arial;
+	font-size:12px;
+}
+p1 {
+	position:absolute
+	font-family:Geogia;
+	font-size:90px;
+	color:#a6a6a6;
+}
+
+.topButtons {
+	position:absolute;
+	right:60px;
+	top:130px;	
+}
+
+.buttons {
+	border-radius: 12px;
+}
+
+.pic {
+	border: 3px solid white;
+}
+
+.rightPic {
+	float:right;
+	margin: -20px 520px 0px 0px;
+}
+
+.mini-info {
+	position:absolute;
+	padding: 00px 0px 0px 0px;
+	
+}
+.mini-info p {
+	float:left;
+}
+
+.firstNews {
+	margin: 0px 520px 0px 0px;
+}
+
+.secondNews {
+	position:absolute;
+	top: 600px;
+	left:0px;
+	margin: 50px 575px 0px 300px;
+}
+
+.specNews {
+	position:absolute;
+	font-family:Arial;
+	font-style: italic;
+	font-size:12px;
+	color: #a6a6a6;
+	margin: -85px 575px 0px 60px;
+}
+
+.thirdNews {
+	position:absolute;
+	margin: -25px 820px 0px 0px;
+}
+.lastNews {
+	margin: 130px 520px 0px 0px;
+}
+
+.align {
+	text-align: justify;
+    text-justify: inter-word;
+}
+.secondIcones {
+	position:absolute;
+	padding:0px;
+	right:575px;
+}
+
+.secondIcones li {
+	padding: 7px;
+	list-style-type:none;
+	float:left;
+}
+.tags {
+	padding:20px 0px;
+}
+.aboutAuthor {
+	margin: -20px 780px 0px 0px
+}
+
+.author {
+	margin: 0px 520px 0px 0px
+}
+
+.authorHeader {
+	background-color: #f8f8f8;	
+}
+
+.orange {
+	color: #fb8e01;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
